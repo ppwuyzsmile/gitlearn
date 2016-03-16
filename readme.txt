@@ -1,4 +1,4 @@
 wudengpan
 huangzhiyan
 love
-git tracks change`
+git tracks change of files`
